@@ -1,0 +1,3 @@
+com\crowlabs\memesapp\Inicio.class
+com\crowlabs\memesapp\service\MemesService.class
+com\crowlabs\memesapp\model\Meme.class
